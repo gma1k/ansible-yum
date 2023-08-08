@@ -1,2 +1,2 @@
 # ansible-yum
-Ansible yu, role
+Ansible yum role
