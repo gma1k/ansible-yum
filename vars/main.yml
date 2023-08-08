@@ -1,0 +1,3 @@
+---
+
+yum_upgrade_now_first_boot_file     : "/var/local/ansible_yum_upgrade"
